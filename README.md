@@ -15,6 +15,7 @@ Aplicación full-stack diseñada para la detección y lectura en tiempo real de 
 
 ## Estructura del Proyecto
 
+```text
 AppPlacas/
 ├── backend/
 │   └── app.py
