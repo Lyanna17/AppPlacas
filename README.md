@@ -16,16 +16,16 @@ Aplicación full-stack diseñada para la detección y lectura en tiempo real de 
 ## Estructura del Proyecto
 
 AppPlacas/
-├── backend/                  
-│   ├── app.py
-│   └── best.pt               
-├── appPlacas/                
+├── backend/
+│   └── app.py
+│   └── best.pt
+├── app/
 │   ├── App.js
 │   ├── app.json
 │   ├── index.js
 │   ├── package.json
 │   └── package-lock.json
-├── .gitignore               
+├── .gitignore
 ├── AGENTS.md
 ├── CLAUDE.md
 ├── LICENSE
